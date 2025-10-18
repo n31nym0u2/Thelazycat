@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# adding a requirments
+chmod +x thelazycat
+chmod +x clean
+
+echo  '''
+*ADDED PERMISSIONS
+>thelazycat - ./thelazycat
+>clean - ./clean
+[+] Complete..
+'''

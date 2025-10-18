@@ -1,0 +1,4 @@
+#!/bin/bash
+# Cleaning the System temp and  useless dependencies
+sudo apt autoclean
+sudo apt autoremove
